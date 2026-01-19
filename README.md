@@ -11,7 +11,7 @@ It allows users to input an amount and select currencies to get the converted va
 1. Make sure Python 3 is installed
 2. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/sahil-madderlawar/currency-converter.git
 
 cd currency-converter
 python currency.py
